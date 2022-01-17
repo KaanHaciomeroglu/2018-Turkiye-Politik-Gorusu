@@ -1,4 +1,4 @@
-# 2018-Turkiye-Politik-Gorusu-Veri-Incelemesi
+# 2018 Turkiye Politik Görüşü Veri İncelemesi
 
 Veri setimizde sorular, cinsiyet, bölgeler ve yaş aralığına bağlı olarak 
 desteklenen partileri görebilmekteyiz. Bu kategorilere göre veriyi sırasıyla Veriyi 
